@@ -1,5 +1,3 @@
-// src/app/api/posts/route.ts
-
 import { prisma } from "@/app/api/auth/[...nextauth]/prisma";
 import { NextRequest, NextResponse } from "next/server";
 import { put } from "@vercel/blob";
@@ -25,29 +23,28 @@ export async function POST(req: NextRequest) {
         tags: [], // predvolené prázdne pole
       },
     });
+    
 
-    // Získanie obrázkov z formData (tu môžeme predpokladať, že obrázky sa spracujú neskôr)
     const files = formData.getAll("images") as File[];
     const imageRecords = [];
 
-    // Pre každý obrázok
     for (let i = 0; i < files.length; i++) {
       const image = files[i];
 
-      // Nahráme obrázok do Vercel Blob a získame URL
       const fileBuffer = image.stream(); // Získame stream obrázka
       const { url } = await put(image.name, fileBuffer, { access: "public" });
 
-      // Vytvoríme záznam v `PostImage` s URL obrázku
+
       const postImage = await prisma.postImage.create({
         data: {
           postId: newPost.id,
-          imageUrl: url, // Ukladáme verejnú URL obrázku z Vercel Blob
-          order: i, // Poradie obrázka
+          imageUrl: url, 
+          order: i, 
         },
       });
       imageRecords.push(postImage);
     }
+    
 
     console.log("New Post Created: ", newPost);
     console.log("Images associated with the post: ", imageRecords);
@@ -57,6 +54,40 @@ export async function POST(req: NextRequest) {
     console.error("Error creating post:", error);
     return NextResponse.json(
       { message: "An error occurred while creating the post." },
+      { status: 500 }
+    );
+  }
+}
+
+export async function GET(req: NextRequest) {
+  try {
+    const { searchParams } = new URL(req.url);
+    const postId = searchParams.get("postId");
+
+    if (!postId) {
+      return NextResponse.json({ message: "Post ID is required." }, { status: 400 });
+    }
+
+    const post = await prisma.post.findUnique({
+      where: { id: postId },
+      include: {
+        user: { select: { name: true, image: true } },
+        images: true,
+        likes: true,
+        comments: {
+          include: {
+            user: { select: { name: true, image: true } },
+          },
+          orderBy: { createdAt: "asc" },
+        },
+      },
+    });
+
+    return NextResponse.json(post);
+  } catch (error) {
+    console.error("Error fetching post:", error);
+    return NextResponse.json(
+      { message: "An error occurred while fetching the post." },
       { status: 500 }
     );
   }

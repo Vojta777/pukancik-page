@@ -1,392 +1,297 @@
-[
-  {
-    "name": "Raquel Franey",
-    "email": "Rodrigo16@gmail.com",
-    "emailVerified": "2025-10-17T07:03:24.657Z",
-    "image": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/412.jpg",
-    "updatedAt": "2024-05-05T17:11:07.588Z",
-    "id": "72e72142-5453-4837-81d0-50c209ab269f",
+{
+  "users": [
+    {
+      "name": "Ján Kováč",
+      "email": "jan.kovac@student.zochova.sk",
+      "emailVerified": "2024-03-19T20:21:49.612Z",
+      "image": "https://i.pravatar.cc/150?u=jan.kovac",
+      "createdAt": "2024-01-15T08:29:33.887Z",
+      "updatedAt": "2024-03-19T08:29:33.887Z",
+    "id": "a4ec5b2a-8bba-4169-9735-260453bbcf5f",
     "profile": {
-      "bio": "Debitis debitis abundans inflammatio laboriosam utilis. Verumtamen strues aliqua. Adeo adficio ea corporis cubo.",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/61686591",
-      "location": "Madera",
-      "updatedAt": "2024-10-19T22:59:43.511Z",
-      "id": "089c7529-c0f4-4636-9187-da2d433cabe1",
-      "userId": "72e72142-5453-4837-81d0-50c209ab269f"
+        "bio": "Študent 3. ročníka SPŠE Zochova, odbor Informačné technológie. Zaujímam sa o webové technológie a programovanie.",
+        "avatarUrl": "https://i.pravatar.cc/300?u=a4ec5b2a-profile",
+        "location": "Bratislava",
+        "interests": [
+          "React",
+          "NextJS",
+          "TypeScript",
+          "Web Development"
+        ],
+        "createdAt": "2024-01-15T08:29:33.887Z",
+        "updatedAt": "2024-03-19T08:29:33.887Z",
+      "id": "6e2e777f-9385-4932-956a-8f34eca57a21",
+      "userId": "a4ec5b2a-8bba-4169-9735-260453bbcf5f"
     },
     "posts": [
       {
-        "imageUrl": "https://loremflickr.com/640/480?lock=1034161647255552",
-        "caption": "Confero calco certe stultus voluptatibus.",
-        "updatedAt": "2025-10-30T12:37:50.577Z",
-        "id": "05890ee0-9ad5-403d-ac63-cf0c88655e92",
-        "userId": "72e72142-5453-4837-81d0-50c209ab269f"
+          "imageUrl": "https://picsum.photos/seed/jan-post1/640/640",
+          "caption": "Dnes som dokončil svoj prvý projekt v Next.js! #coding #nextjs #programming",
+          "createdAt": "2024-03-15T21:31:07.461Z",
+          "updatedAt": "2024-03-15T21:31:07.461Z",
+          "tags": [
+            "coding",
+            "nextjs",
+            "programming"
+          ],
+        "id": "5331339d-7a59-43a5-b1fb-fa5475063b28",
+        "userId": "a4ec5b2a-8bba-4169-9735-260453bbcf5f"
       },
       {
-        "imageUrl": "https://loremflickr.com/640/480?lock=2485628600057856",
-        "caption": "Acquiro tabesco vos benigne cur delectatio nesciunt.",
-        "updatedAt": "2025-11-12T15:18:09.300Z",
-        "id": "c72a4792-bff7-4d93-9f02-fbbc3bfb9c13",
-        "userId": "72e72142-5453-4837-81d0-50c209ab269f"
-      },
-      {
-        "imageUrl": "https://loremflickr.com/640/480?lock=5654028904038400",
-        "caption": "Sui vos valens vespillo compello subvenio dicta solvo speciosus.",
-        "updatedAt": "2024-10-28T09:37:39.523Z",
-        "id": "bc31660d-34b5-4139-8d69-18d1bd4f5269",
-        "userId": "72e72142-5453-4837-81d0-50c209ab269f"
+          "imageUrl": "https://picsum.photos/seed/jan-post2/640/640",
+          "caption": "Pracujeme na školskom projekte ZoškaGram! #spse #zochova #project",
+          "createdAt": "2024-03-10T19:49:55.535Z",
+          "updatedAt": "2024-03-10T19:49:55.535Z",
+          "tags": [
+            "spse",
+            "zochova",
+            "project"
+          ],
+        "id": "f437a164-405c-4993-bf28-1370e6688f49",
+        "userId": "a4ec5b2a-8bba-4169-9735-260453bbcf5f"
       }
     ]
   },
   {
-    "name": "Bernadette Mante-Schaden",
-    "email": "Ceasar.Welch99@gmail.com",
-    "emailVerified": "2024-04-15T05:48:21.564Z",
-    "image": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/321.jpg",
-    "updatedAt": "2025-09-10T21:40:31.914Z",
-    "id": "84147b22-c6a3-4ef5-a41b-15d9464f5608",
+      "name": "Eva Novotná",
+      "email": "eva.novotna@student.zochova.sk",
+      "emailVerified": "2024-03-18T15:35:09.108Z",
+      "image": "https://i.pravatar.cc/150?u=eva.novotna",
+      "createdAt": "2024-01-15T08:29:33.887Z",
+      "updatedAt": "2024-03-18T08:29:33.887Z",
+    "id": "c6844753-1afa-46c9-81a1-4549da9a279d",
     "profile": {
-      "bio": "Vapulus deporto demens aspernatur iste delicate aufero vesco clam acidus. Fuga aperte eos vestigium amita at defessus curtus sequi reprehenderit. Solvo bene pectus auctus vivo vobis administratio.",
-      "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/270.jpg",
-      "location": "Port Ozellaport",
-      "updatedAt": "2025-01-18T20:56:06.882Z",
-      "id": "c392bfa4-5c35-47f6-9637-886d4e7e5419",
-      "userId": "84147b22-c6a3-4ef5-a41b-15d9464f5608"
+        "bio": "Študentka 2. ročníka SPŠE Zochova. Milujem dizajn a UI/UX. Aktívne sa venujem grafickému dizajnu.",
+        "avatarUrl": "https://i.pravatar.cc/300?u=c6844753-profile",
+        "location": "Bratislava, Zochova",
+        "interests": [
+          "Design",
+          "UI/UX",
+          "Graphic Design",
+          "Art"
+        ],
+        "createdAt": "2024-01-15T08:29:33.887Z",
+        "updatedAt": "2024-03-18T08:29:33.887Z",
+      "id": "68fffe38-6ffd-4690-bb7a-446d6b86ac40",
+      "userId": "c6844753-1afa-46c9-81a1-4549da9a279d"
     },
     "posts": [
       {
-        "imageUrl": "https://picsum.photos/seed/iTd0w9G/640/480",
-        "caption": "Ago approbo tot apud centum aperiam ante ea.",
-        "updatedAt": "2024-06-24T04:09:37.111Z",
-        "id": "d54c33a8-1eb0-4e96-bd11-82567ce5ba39",
-        "userId": "84147b22-c6a3-4ef5-a41b-15d9464f5608"
-      },
-      {
-        "imageUrl": "https://picsum.photos/seed/K9CGI/640/480",
-        "caption": "Addo stipes demergo verus sol vulariter aestivus quos.",
-        "updatedAt": "2024-05-07T19:19:19.764Z",
-        "id": "f2214c6d-4359-4bcb-8b2f-42a2cd8d9002",
-        "userId": "84147b22-c6a3-4ef5-a41b-15d9464f5608"
-      },
-      {
-        "imageUrl": "https://picsum.photos/seed/ZrnlDveF5P/640/480",
-        "caption": "Texo quasi vox aeger molestiae curia eaque blanditiis absque.",
-        "updatedAt": "2024-06-15T11:40:33.790Z",
-        "id": "3561bc82-3aea-43ab-bc9d-229e6d231e15",
-        "userId": "84147b22-c6a3-4ef5-a41b-15d9464f5608"
+          "imageUrl": "https://picsum.photos/seed/eva-post1/640/640",
+          "caption": "Moje prvé UI návrhy pre mobilnú aplikáciu #ui #design #mobile",
+          "createdAt": "2024-03-15T09:48:12.756Z",
+          "updatedAt": "2024-03-15T09:48:12.756Z",
+          "tags": [
+            "ui",
+            "design",
+            "mobile"
+          ],
+        "id": "3ec6aa65-4323-4be7-9b3f-f91f58aa5f42",
+        "userId": "c6844753-1afa-46c9-81a1-4549da9a279d"
       }
     ]
   },
   {
-    "name": "Bessie Swaniawski",
-    "email": "Kaleigh_Fadel29@yahoo.com",
-    "emailVerified": "2025-05-27T04:51:37.789Z",
-    "image": "https://avatars.githubusercontent.com/u/69897163",
-    "updatedAt": "2025-02-26T10:42:45.641Z",
-    "id": "0e4a4a05-c604-4fac-a876-1ff50285b360",
+      "name": "Martin Hlaváč",
+      "email": "martin.hlavac@student.zochova.sk",
+      "emailVerified": "2024-03-17T21:02:38.122Z",
+      "image": "https://i.pravatar.cc/150?u=martin.hlavac",
+      "createdAt": "2024-01-15T08:29:33.887Z",
+      "updatedAt": "2024-03-17T08:29:33.887Z",
+    "id": "43f5a8dc-315d-4ae5-9ac5-192abe5428cd",
     "profile": {
-      "bio": "Depromo laudantium supplanto deludo doloribus velut dapifer virtus. Credo cognatus adulescens vesica vomica beneficium dedecor aestas. Cogito depraedor demum illo vulpes deinde solitudo credo ipsum thymbra.",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/81105657",
-      "location": "Port Torrancetown",
-      "updatedAt": "2025-02-20T16:30:00.134Z",
-      "id": "7a89a0e9-a663-435f-9250-3802d985b1d3",
-      "userId": "0e4a4a05-c604-4fac-a876-1ff50285b360"
+        "bio": "Študent 4. ročníka SPŠE Zochova. Zaujímam sa o backend a databázy. Aktívne sa venujem vývoju serverových aplikácií.",
+        "avatarUrl": "https://i.pravatar.cc/300?u=43f5a8dc-profile",
+        "location": "Bratislava",
+        "interests": [
+          "Backend",
+          "Databases",
+          "Node.js",
+          "Python"
+        ],
+        "createdAt": "2024-01-15T08:29:33.887Z",
+        "updatedAt": "2024-03-17T08:29:33.887Z",
+      "id": "94862c09-d388-403e-9295-57471434006e",
+      "userId": "43f5a8dc-315d-4ae5-9ac5-192abe5428cd"
     },
     "posts": [
       {
-        "imageUrl": "https://picsum.photos/seed/ajV4JBGVL/640/480",
-        "caption": "Amplus urbanus alius.",
-        "updatedAt": "2025-03-14T21:48:53.732Z",
-        "id": "7360a6f4-97a0-4971-8285-5de03d820876",
-        "userId": "0e4a4a05-c604-4fac-a876-1ff50285b360"
+          "imageUrl": "https://picsum.photos/seed/martin-post1/640/640",
+          "caption": "Dnes som dokončil backend pre školský projekt! #nodejs #backend #database",
+          "createdAt": "2024-03-16T16:08:38.786Z",
+          "updatedAt": "2024-03-16T16:08:38.786Z",
+          "tags": [
+            "nodejs",
+            "backend",
+            "database"
+          ],
+        "id": "271762c5-6c9f-4a69-bf98-65bd09c6700a",
+        "userId": "43f5a8dc-315d-4ae5-9ac5-192abe5428cd"
       },
       {
-        "imageUrl": "https://picsum.photos/seed/AWqiDN/640/480",
-        "caption": "Vulgus a animus ter varietas deficio aestivus tribuo ter.",
-        "updatedAt": "2024-12-01T00:04:32.046Z",
-        "id": "863c8941-70a3-4b5b-b0a8-4a161c739ccc",
-        "userId": "0e4a4a05-c604-4fac-a876-1ff50285b360"
-      },
-      {
-        "imageUrl": "https://picsum.photos/seed/TsRPRd40/640/480",
-        "caption": "Torrens caterva error amplitudo vaco.",
-        "updatedAt": "2024-05-13T05:00:18.607Z",
-        "id": "b3799713-7f95-4415-8503-1e67e04f712b",
-        "userId": "0e4a4a05-c604-4fac-a876-1ff50285b360"
+          "imageUrl": "https://picsum.photos/seed/martin-post2/640/640",
+          "caption": "Pracujeme na optimalizácii databázových dotazov #performance #database",
+          "createdAt": "2024-03-10T21:01:22.458Z",
+          "updatedAt": "2024-03-10T21:01:22.458Z",
+          "tags": [
+            "performance",
+            "database"
+          ],
+        "id": "732ca0da-8897-44c4-872d-0832b3f2ba3f",
+        "userId": "43f5a8dc-315d-4ae5-9ac5-192abe5428cd"
       }
     ]
   },
   {
-    "name": "Bethany Konopelski",
-    "email": "Jackie3@gmail.com",
-    "emailVerified": "2025-11-27T10:50:03.754Z",
-    "image": "https://avatars.githubusercontent.com/u/13091806",
-    "updatedAt": "2025-05-11T00:20:14.934Z",
-    "id": "14ddc315-3141-4a3c-a6a3-f0bb723a45b1",
+      "name": "Lucia Kováčová",
+      "email": "lucia.kovacova@student.zochova.sk",
+      "emailVerified": "2024-03-16T12:54:32.807Z",
+      "image": "https://i.pravatar.cc/150?u=lucia.kovacova",
+      "createdAt": "2024-01-15T08:29:33.887Z",
+      "updatedAt": "2024-03-16T08:29:33.887Z",
+    "id": "d91b10cf-e945-43c8-a1a9-b401ddd52986",
     "profile": {
-      "bio": "Quos curiositas cribro bestia thermae vivo cupressus summopere deleniti. Vulnus doloremque cornu apto sordeo aegrus tabesco aperio depulso toties. Conicio ater demens tot pauci harum asper suscipit.",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/17826754",
-      "location": "Johnnyberg",
-      "updatedAt": "2025-06-07T10:59:17.073Z",
-      "id": "c0717644-ae25-424e-ab35-c88845480652",
-      "userId": "14ddc315-3141-4a3c-a6a3-f0bb723a45b1"
+        "bio": "Študentka 3. ročníka SPŠE Zochova. Zaujímam sa o mobilné aplikácie a UI dizajn. Aktívne sa venujem vývoju iOS aplikácií.",
+        "avatarUrl": "https://i.pravatar.cc/300?u=d91b10cf-profile",
+        "location": "Bratislava - Petržalka",
+        "interests": [
+          "iOS",
+          "Mobile Apps",
+          "UI Design",
+          "Swift"
+        ],
+        "createdAt": "2024-01-15T08:29:33.887Z",
+        "updatedAt": "2024-03-16T08:29:33.887Z",
+      "id": "bf338cc3-bffa-4e5d-932c-ccc7ca91faf8",
+      "userId": "d91b10cf-e945-43c8-a1a9-b401ddd52986"
     },
     "posts": [
       {
-        "imageUrl": "https://loremflickr.com/640/480?lock=802720749453312",
-        "caption": "Nesciunt adinventitias quia coerceo vindico vindico ventosus aequitas.",
-        "updatedAt": "2025-11-17T13:25:47.034Z",
-        "id": "c8bd1a20-c941-4afa-b835-38885b0990b7",
-        "userId": "14ddc315-3141-4a3c-a6a3-f0bb723a45b1"
+          "imageUrl": "https://picsum.photos/seed/lucia-post1/640/640",
+          "caption": "Moja prvá iOS aplikácia je na App Store! #ios #swift #mobile",
+          "createdAt": "2024-03-15T08:19:16.694Z",
+          "updatedAt": "2024-03-15T08:19:16.694Z",
+          "tags": [
+            "ios",
+            "swift",
+            "mobile"
+          ],
+        "id": "8f1e0f5d-5d8a-4cf6-829b-2b6b6af98104",
+        "userId": "d91b10cf-e945-43c8-a1a9-b401ddd52986"
       },
       {
-        "imageUrl": "https://picsum.photos/seed/Ozjsy1XMv/640/480",
-        "caption": "Crur nostrum ante nostrum ocer a.",
-        "updatedAt": "2025-07-16T08:39:55.044Z",
-        "id": "30c8f421-b14b-4ab7-9484-27e89820cb12",
-        "userId": "14ddc315-3141-4a3c-a6a3-f0bb723a45b1"
-      },
-      {
-        "imageUrl": "https://loremflickr.com/640/480?lock=4108539962327040",
-        "caption": "Tergo talis barba strues dolore adduco compello valetudo.",
-        "updatedAt": "2025-11-13T05:59:51.355Z",
-        "id": "68f3d393-b702-4b16-934e-c549cf926271",
-        "userId": "14ddc315-3141-4a3c-a6a3-f0bb723a45b1"
+          "imageUrl": "https://picsum.photos/seed/lucia-post2/640/640",
+          "caption": "Pracujeme na novom UI pre školskú aplikáciu #ui #design #mobile",
+          "createdAt": "2024-03-10T07:16:02.332Z",
+          "updatedAt": "2024-03-10T07:16:02.332Z",
+          "tags": [
+            "ui",
+            "design",
+            "mobile"
+          ],
+        "id": "9af22348-d5f8-47fe-ae87-9cc3b2e1d6a3",
+        "userId": "d91b10cf-e945-43c8-a1a9-b401ddd52986"
       }
     ]
   },
   {
-    "name": "Harriet Stamm",
-    "email": "Rahul.Ernser77@yahoo.com",
-    "emailVerified": "2024-02-20T09:56:56.810Z",
-    "image": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/682.jpg",
-    "updatedAt": "2024-07-23T01:33:36.209Z",
-    "id": "07ef3076-6fab-466d-b8ef-8001cf4737c7",
+      "name": "Peter Horváth",
+      "email": "peter.horvath@student.zochova.sk",
+      "emailVerified": "2024-03-15T13:25:55.970Z",
+      "image": "https://i.pravatar.cc/150?u=peter.horvath",
+      "createdAt": "2024-01-15T08:29:33.887Z",
+      "updatedAt": "2024-03-15T08:29:33.887Z",
+    "id": "38c5b651-4004-4b92-87ca-07368eabc184",
     "profile": {
-      "bio": "Appositus voluptatibus ubi aufero vilitas corrumpo supplanto. Defaeco termes vaco blandior comminor acer via. Somnus crebro derideo umquam eum canto vorax.",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/11687382",
-      "location": "New Fay",
-      "updatedAt": "2025-12-06T21:37:16.627Z",
-      "id": "88942eb2-496a-48bc-ab98-fd04d1026697",
-      "userId": "07ef3076-6fab-466d-b8ef-8001cf4737c7"
+        "bio": "Študent 2. ročníka SPŠE Zochova. Zaujímam sa o sieťové technológie a bezpečnosť. Aktívne sa venujem etickému hackingu.",
+        "avatarUrl": "https://i.pravatar.cc/300?u=38c5b651-profile",
+        "location": "Bratislava - Dúbravka",
+        "interests": [
+          "Networking",
+          "Security",
+          "Ethical Hacking",
+          "Linux"
+        ],
+        "createdAt": "2024-01-15T08:29:33.887Z",
+        "updatedAt": "2024-03-15T08:29:33.887Z",
+      "id": "5af82ac5-b377-419a-a928-c3250eee585f",
+      "userId": "38c5b651-4004-4b92-87ca-07368eabc184"
     },
     "posts": [
       {
-        "imageUrl": "https://picsum.photos/seed/pDhaoHT/640/480",
-        "caption": "Defero damno suppellex.",
-        "updatedAt": "2024-04-01T15:55:39.716Z",
-        "id": "e3e6789d-0f1a-4ad1-9167-1558fcb1dbd1",
-        "userId": "07ef3076-6fab-466d-b8ef-8001cf4737c7"
+          "imageUrl": "https://picsum.photos/seed/peter-post1/640/640",
+          "caption": "Dnes som dokončil certifikáciu CCNA! #networking #cisco #certification",
+          "createdAt": "2024-03-15T23:41:07.135Z",
+          "updatedAt": "2024-03-15T23:41:07.135Z",
+          "tags": [
+            "networking",
+            "cisco",
+            "certification"
+          ],
+        "id": "0c2e3a0a-547e-4eeb-a5e4-65669c3b228c",
+        "userId": "38c5b651-4004-4b92-87ca-07368eabc184"
       },
       {
-        "imageUrl": "https://picsum.photos/seed/ZeqzdT7/640/480",
-        "caption": "Caries coniecto conqueror vinitor vigilo umerus video timidus.",
-        "updatedAt": "2024-08-23T05:56:51.230Z",
-        "id": "498929f5-57d7-4a21-b388-e0912b015cae",
-        "userId": "07ef3076-6fab-466d-b8ef-8001cf4737c7"
-      },
-      {
-        "imageUrl": "https://loremflickr.com/640/480?lock=6385780993818624",
-        "caption": "Utrum defessus non.",
-        "updatedAt": "2025-02-28T08:02:30.066Z",
-        "id": "93923db1-3b4f-487f-8802-35b40c788244",
-        "userId": "07ef3076-6fab-466d-b8ef-8001cf4737c7"
-      }
-    ]
-  },
-  {
-    "name": "Lucy Turner",
-    "email": "Muhammad.Gottlieb98@yahoo.com",
-    "emailVerified": "2025-05-10T04:21:09.676Z",
-    "image": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/277.jpg",
-    "updatedAt": "2025-05-28T22:46:53.126Z",
-    "id": "e0fba151-b310-41f9-936b-db6ac2578306",
-    "profile": {
-      "bio": "Synagoga vespillo tempus ver versus acerbitas caries. Omnis approbo accusamus aspernatur ipsam volo tristis. Viriliter avarus socius vester vir.",
-      "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/640.jpg",
-      "location": "Azusa",
-      "updatedAt": "2025-12-07T03:25:27.569Z",
-      "id": "a0a20f33-f60b-4ed9-8a3c-e90b44bfaa48",
-      "userId": "e0fba151-b310-41f9-936b-db6ac2578306"
+          "imageUrl": "https://picsum.photos/seed/peter-post2/640/640",
+          "caption": "Pracujeme na zabezpečení školského systému #security #networking",
+          "createdAt": "2024-03-10T00:43:59.128Z",
+          "updatedAt": "2024-03-10T00:43:59.128Z",
+          "tags": [
+            "security",
+            "networking"
+          ],
+        "id": "de6b5f8a-246f-46fd-b58d-8af972871bbe",
+        "userId": "38c5b651-4004-4b92-87ca-07368eabc184"
+        }
+      ]
+    }
+  ],
+  "follows": [
+    {
+      "id": "f34e4b2a-1c1d-4e5f-9a8b-7c6d5e4f3a2b",
+      "followerId": "a4ec5b2a-8bba-4169-9735-260453bbcf5f",
+      "followingId": "c6844753-1afa-46c9-81a1-4549da9a279d",
+      "createdAt": "2024-03-15T14:22:33.456Z"
     },
-    "posts": [
-      {
-        "imageUrl": "https://loremflickr.com/640/480?lock=3686333335732224",
-        "caption": "Delego caste cohors vigor fuga sequi cauda adflicto sum.",
-        "updatedAt": "2024-12-20T06:15:38.953Z",
-        "id": "44e2286e-cc00-43d2-8d18-f25596b9345d",
-        "userId": "e0fba151-b310-41f9-936b-db6ac2578306"
-      },
-      {
-        "imageUrl": "https://picsum.photos/seed/GhmRXcwN3C/640/480",
-        "caption": "Crepusculum cogito vinitor.",
-        "updatedAt": "2024-10-31T00:35:43.180Z",
-        "id": "cda7bd64-41c6-41aa-90f0-17e62c704e9a",
-        "userId": "e0fba151-b310-41f9-936b-db6ac2578306"
-      },
-      {
-        "imageUrl": "https://loremflickr.com/640/480?lock=5284324328865792",
-        "caption": "Libero eveniet cito tactus.",
-        "updatedAt": "2026-01-25T18:58:48.555Z",
-        "id": "97e5a09f-72c0-4c71-90fa-b8b5fca4d8ec",
-        "userId": "e0fba151-b310-41f9-936b-db6ac2578306"
-      }
-    ]
-  },
-  {
-    "name": "Troy Grant",
-    "email": "Ocie.Stark-Brown26@yahoo.com",
-    "emailVerified": "2024-07-14T06:25:59.239Z",
-    "image": "https://avatars.githubusercontent.com/u/13902146",
-    "updatedAt": "2024-10-31T09:11:30.475Z",
-    "id": "57542eaf-cc2f-42e0-9a2c-7c523a33308a",
-    "profile": {
-      "bio": "Tutis deinde vae trucido commodi arx amiculum amplus caveo stabilis. Suscipit caecus derideo debilito infit. Capio patruus vigor denuncio velut atqui absconditus aqua caste.",
-      "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/148.jpg",
-      "location": "Lucianoville",
-      "updatedAt": "2026-01-02T21:21:34.435Z",
-      "id": "26602518-f9a1-4137-a33e-2445fcd31eb1",
-      "userId": "57542eaf-cc2f-42e0-9a2c-7c523a33308a"
+    {
+      "id": "a1b2c3d4-e5f6-4a5b-9c8d-7e6f5a4b3c2d",
+      "followerId": "a4ec5b2a-8bba-4169-9735-260453bbcf5f",
+      "followingId": "43f5a8dc-315d-4ae5-9ac5-192abe5428cd",
+      "createdAt": "2024-03-15T09:15:27.123Z"
     },
-    "posts": [
-      {
-        "imageUrl": "https://loremflickr.com/640/480?lock=6518951209074688",
-        "caption": "Cetera accedo truculenter adfectus amissio umquam vester cicuta tergo crapula.",
-        "updatedAt": "2024-03-02T12:34:16.620Z",
-        "id": "402cf66b-cb37-4a3d-8e43-6db6dc2b4830",
-        "userId": "57542eaf-cc2f-42e0-9a2c-7c523a33308a"
-      },
-      {
-        "imageUrl": "https://picsum.photos/seed/8A5U7txg/640/480",
-        "caption": "Cometes suffragium articulus cedo chirographum tabgo laborum cursim.",
-        "updatedAt": "2025-03-24T03:45:08.217Z",
-        "id": "001349cc-43c4-4d8d-8402-6dfd44d72e5f",
-        "userId": "57542eaf-cc2f-42e0-9a2c-7c523a33308a"
-      },
-      {
-        "imageUrl": "https://picsum.photos/seed/YSaq4AC71Q/640/480",
-        "caption": "Conatus vulnero aptus natus.",
-        "updatedAt": "2024-04-13T14:01:10.175Z",
-        "id": "dc126941-8c97-45a0-8a98-9582a005ccdc",
-        "userId": "57542eaf-cc2f-42e0-9a2c-7c523a33308a"
-      }
-    ]
-  },
-  {
-    "name": "Nicole Wunsch",
-    "email": "Claire58@gmail.com",
-    "emailVerified": "2025-04-15T12:52:02.360Z",
-    "image": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1030.jpg",
-    "updatedAt": "2024-12-18T11:19:43.048Z",
-    "id": "056ccd05-6713-418d-a154-a7b550e3578d",
-    "profile": {
-      "bio": "Eum xiphias vulticulus conscendo amplus iure veritatis defaeco theatrum. Aufero ipsam arbor. Tantillus tui laborum totus cupio coruscus.",
-      "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/259.jpg",
-      "location": "Lake Albertview",
-      "updatedAt": "2025-03-14T10:22:05.949Z",
-      "id": "6d6b6c01-cbf0-4ce8-9432-d75e59f9a3d8",
-      "userId": "056ccd05-6713-418d-a154-a7b550e3578d"
+    {
+      "id": "b2c3d4e5-f6a7-5b8c-9d0e-1f2a3b4c5d6e",
+      "followerId": "c6844753-1afa-46c9-81a1-4549da9a279d",
+      "followingId": "a4ec5b2a-8bba-4169-9735-260453bbcf5f",
+      "createdAt": "2024-03-15T11:33:22.789Z"
+    }
+  ],
+  "likes": [
+    {
+      "id": "a1b2c3d4-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+      "userId": "a4ec5b2a-8bba-4169-9735-260453bbcf5f",
+      "postId": "3ec6aa65-4323-4be7-9b3f-f91f58aa5f42",
+      "createdAt": "2024-03-15T10:15:33.456Z"
     },
-    "posts": [
-      {
-        "imageUrl": "https://loremflickr.com/640/480?lock=4077023752355840",
-        "caption": "Valeo aestus tabernus atrox numquam taceo.",
-        "updatedAt": "2025-08-26T11:30:19.562Z",
-        "id": "135dbb2c-a862-4688-b1b7-7c9289eeb41a",
-        "userId": "056ccd05-6713-418d-a154-a7b550e3578d"
-      },
-      {
-        "imageUrl": "https://picsum.photos/seed/9qIA4/640/480",
-        "caption": "Solum toties officiis aer.",
-        "updatedAt": "2024-10-01T19:35:51.538Z",
-        "id": "de4ccf2c-82a2-461a-9830-e04b0e11c30c",
-        "userId": "056ccd05-6713-418d-a154-a7b550e3578d"
-      },
-      {
-        "imageUrl": "https://loremflickr.com/640/480?lock=6482770561859584",
-        "caption": "Copia arcesso textilis denique demens crur thesis vilitas tamquam arguo.",
-        "updatedAt": "2025-07-08T10:17:59.946Z",
-        "id": "86ed5a0b-d749-48c8-aab0-a102d12db1aa",
-        "userId": "056ccd05-6713-418d-a154-a7b550e3578d"
-      }
-    ]
-  },
-  {
-    "name": "Inez Buckridge-Breitenberg",
-    "email": "Larry_Osinski68@hotmail.com",
-    "emailVerified": "2025-11-18T00:10:44.828Z",
-    "image": "https://avatars.githubusercontent.com/u/62760532",
-    "updatedAt": "2025-05-12T17:11:13.761Z",
-    "id": "3ac45aa7-408b-4a53-b41f-1bc9766d60dc",
-    "profile": {
-      "bio": "Amita vesco umquam cogo. Thesis articulus cupressus benigne vae deludo labore causa. Admoneo vos sulum ubi cariosus avaritia.",
-      "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/965.jpg",
-      "location": "Eldredton",
-      "updatedAt": "2025-09-30T19:33:23.657Z",
-      "id": "0357d111-5788-4ef4-9dac-6f0470d58d90",
-      "userId": "3ac45aa7-408b-4a53-b41f-1bc9766d60dc"
+    {
+      "id": "b2c3d4e5-6f7a-8b9c-0d1e-2f3a4b5c6d7e",
+      "userId": "c6844753-1afa-46c9-81a1-4549da9a279d",
+      "postId": "5331339d-7a59-43a5-b1fb-fa5475063b28",
+      "createdAt": "2024-03-15T09:22:45.123Z"
+    }
+  ],
+  "bookmarks": [
+    {
+      "id": "a1b2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6d",
+      "userId": "a4ec5b2a-8bba-4169-9735-260453bbcf5f",
+      "postId": "271762c5-6c9f-4a69-bf98-65bd09c6700a",
+      "createdAt": "2024-03-15T10:15:33.456Z"
     },
-    "posts": [
-      {
-        "imageUrl": "https://loremflickr.com/640/480?lock=7440727183196160",
-        "caption": "Confero rerum succedo repudiandae decimus super.",
-        "updatedAt": "2025-05-06T23:04:27.114Z",
-        "id": "4b49d2e1-5083-4a30-98e6-b04a894ea539",
-        "userId": "3ac45aa7-408b-4a53-b41f-1bc9766d60dc"
-      },
-      {
-        "imageUrl": "https://picsum.photos/seed/KhS5HY/640/480",
-        "caption": "Una compono ara apud calcar viduo usitas approbo caput.",
-        "updatedAt": "2024-08-04T17:54:38.825Z",
-        "id": "784a91fe-e831-4308-b4a8-164994c5f87c",
-        "userId": "3ac45aa7-408b-4a53-b41f-1bc9766d60dc"
-      },
-      {
-        "imageUrl": "https://picsum.photos/seed/32hQiUu/640/480",
-        "caption": "Curriculum adversus color commodo demens vereor caelum.",
-        "updatedAt": "2025-06-13T15:08:23.078Z",
-        "id": "4106b3d7-39b6-440b-a42c-f169212b0451",
-        "userId": "3ac45aa7-408b-4a53-b41f-1bc9766d60dc"
-      }
-    ]
-  },
-  {
-    "name": "Claudia Cormier",
-    "email": "Ida_Marks@gmail.com",
-    "emailVerified": "2025-04-22T18:04:15.198Z",
-    "image": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/587.jpg",
-    "updatedAt": "2024-06-17T09:52:01.017Z",
-    "id": "4da4697d-8460-408f-b296-4729c5233d49",
-    "profile": {
-      "bio": "Vetus auxilium tyrannus aliquam adaugeo. Vapulus virga armarium dens quas agnosco commodi utrum usitas quia. Cicuta thymbra vicinus tempore.",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/23277235",
-      "location": "Terrenceville",
-      "updatedAt": "2024-06-19T07:52:58.000Z",
-      "id": "3b409189-c1d9-4f8e-ad03-f5518a8df17f",
-      "userId": "4da4697d-8460-408f-b296-4729c5233d49"
-    },
-    "posts": [
-      {
-        "imageUrl": "https://picsum.photos/seed/HJGs9eRdm/640/480",
-        "caption": "Iusto tutis desidero crur strenuus thesis triumphus unde aranea ara.",
-        "updatedAt": "2024-05-25T11:30:39.938Z",
-        "id": "325bfd1e-83a5-4902-8b71-bcee24f5e075",
-        "userId": "4da4697d-8460-408f-b296-4729c5233d49"
-      },
-      {
-        "imageUrl": "https://picsum.photos/seed/nBoF0aGBM/640/480",
-        "caption": "Convoco pauci explicabo attero.",
-        "updatedAt": "2025-05-09T08:11:32.902Z",
-        "id": "51071eba-11ef-4802-a6f1-1a3e81981713",
-        "userId": "4da4697d-8460-408f-b296-4729c5233d49"
-      },
-      {
-        "imageUrl": "https://picsum.photos/seed/6wLhSi/640/480",
-        "caption": "Tredecim tutamen utpote arto velum hic.",
-        "updatedAt": "2026-02-09T16:58:55.493Z",
-        "id": "93a6db5b-b7a6-4c9a-87a2-8b500a8019a3",
-        "userId": "4da4697d-8460-408f-b296-4729c5233d49"
-      }
-    ]
-  }
-]
+    {
+      "id": "b2c3d4e5-f6a7-8b9c-0d1e-2f3a4b5c6d7e",
+      "userId": "c6844753-1afa-46c9-81a1-4549da9a279d",
+      "postId": "8f1e0f5d-5d8a-4cf6-829b-2b6b6af98104",
+      "createdAt": "2024-03-15T09:22:45.123Z"
+    }
+  ]
+}

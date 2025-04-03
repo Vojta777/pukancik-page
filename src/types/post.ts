@@ -2,6 +2,18 @@
 
 import { Like } from "./like";
 
+export interface Comment {
+  id: string;
+  postId: string;
+  userId: string;
+  content: string;
+  createdAt: Date;
+  user: {
+    name: string | null;
+    image: string | null;
+  };
+}
+
 export interface Post {
   id: string;
   userId: string;
@@ -14,4 +26,5 @@ export interface Post {
     image: string | null;
   };
   images: { imageUrl: string }[];
+  comments?: Comment[]; // Add this
 }

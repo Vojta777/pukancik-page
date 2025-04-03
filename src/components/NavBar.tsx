@@ -72,17 +72,15 @@ export default function Navbar() {
       sx={{
         width: "calc(100% - 32px)",
         position: "fixed",
-        bottom: 16,
+        bottom: 0,
         left: "50%",
         transform: "translateX(-50%)",
-        backgroundColor: "rgba(255, 255, 255, 0.2)",
-        backdropFilter: "blur(10px)",
-        border: "1px solid rgba(255, 255, 255, 0.5)",
-        borderRadius: "100px",
+        backgroundColor: "rgba(255, 255, 255)",
+        border: "1px solid rgba(255, 255, 255)",
         boxShadow: "0 6px 40px rgba(0, 0, 0, 0.15)",
         zIndex: 10,
         overflow: "hidden",
-        padding: "8px",
+        
       }}>
       <BottomNavigation
         showLabels

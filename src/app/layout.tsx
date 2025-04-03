@@ -9,10 +9,6 @@ import AuthProvider from "../components/AuthProvider";
 import Navbar from "../components/NavBar";
 import ThemeProvider from "../components/ThemeProvider";
 
-export const metadata: Metadata = {
-  title: "Echo | Your social network",
-  description: "Created by Erik",
-};
 
 export default function RootLayout({
   children,
